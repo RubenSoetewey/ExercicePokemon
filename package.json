@@ -1,0 +1,29 @@
+{
+  "name": "pokemon",
+  "version": "1.0.0",
+  "description": "pika pika",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubenSoetewey/ExercicePokemon.git"
+  },
+  "author": "rsoetewey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RubenSoetewey/ExercicePokemon/issues"
+  },
+  "homepage": "https://github.com/RubenSoetewey/ExercicePokemon#readme",
+  "devDependencies": {
+    "@types/jest": "^25.1.4",
+    "@types/node": "^13.9.5",
+    "jest": "^25.2.4",
+    "ts-jest": "^25.3.0",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "babel": "^6.23.0"
+  }
+}

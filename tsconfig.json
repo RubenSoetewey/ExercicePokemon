@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es2018",
+        "noImplicitAny": false,
+        "sourceMap": false,
+        "outDir": "dist",
+        "strictNullChecks": true
+    },
+    "include": [
+        "*"
+    ]
+}
