@@ -110,4 +110,4 @@ var tortank = new Pokemon("Tortank",50,100,83,100,79,[attaqueTortank]);
 var dracaufeu = new Pokemon("Dracaufeu",50,78,84,78,78,[attaqueDracaufeu]);
 Round(dracaufeu,tortank);
 
-module.exports = {Pokemon, WhoAttacks, Attack, Fight};
+module.exports = {Pokemon, WhoAttacks, Attack, Fight, Round};
